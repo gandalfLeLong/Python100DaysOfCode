@@ -1,3 +1,5 @@
+#Small program allowowing the user to play rock paper scissors against the computer
+
 import random
 
 stop_flag = 0
